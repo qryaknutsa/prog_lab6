@@ -1,0 +1,260 @@
+[
+  {
+    "id": 1,
+    "name": "Normal guy",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "creationDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 16
+    },
+    "height": 1.8,
+    "birthday": {
+      "dateTime": {
+        "date": {
+          "year": 1992,
+          "month": 4,
+          "day": 8
+        },
+        "time": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        }
+      },
+      "offset": {
+        "totalSeconds": 14400
+      },
+      "zone": {
+        "id": "Europe/Moscow"
+      }
+    },
+    "weight": 80.0,
+    "country": "RUSSIA",
+    "location": {
+      "x": 0,
+      "y": 0.0,
+      "z": 0.0,
+      "name": "Somewhere"
+    }
+  },
+  {
+    "id": 2,
+    "name": "1",
+    "coordinates": {
+      "x": 1,
+      "y": 1
+    },
+    "creationDate": {
+      "year": 2022,
+      "month": 9,
+      "day": 28
+    },
+    "height": 1.0,
+    "birthday": {
+      "dateTime": {
+        "date": {
+          "year": 2004,
+          "month": 12,
+          "day": 31
+        },
+        "time": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        }
+      },
+      "offset": {
+        "totalSeconds": 10800
+      },
+      "zone": {
+        "id": "Europe/Moscow"
+      }
+    },
+    "weight": 1.0,
+    "country": "RUSSIA",
+    "location": {
+      "x": 1,
+      "y": 1.0,
+      "z": 1.0,
+      "name": "1"
+    }
+  },
+  {
+    "id": 3,
+    "name": "4",
+    "coordinates": {
+      "x": 4,
+      "y": 4
+    },
+    "creationDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 4
+    },
+    "height": 4.0,
+    "birthday": {
+      "dateTime": {
+        "date": {
+          "year": 4,
+          "month": 4,
+          "day": 4
+        },
+        "time": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        }
+      },
+      "offset": {
+        "totalSeconds": 9017
+      },
+      "zone": {
+        "id": "Europe/Moscow"
+      }
+    },
+    "weight": 4.0,
+    "country": "RUSSIA",
+    "location": {
+      "x": 4,
+      "y": 4.0,
+      "z": 4.0,
+      "name": "4"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Oscar",
+    "coordinates": {
+      "x": 12,
+      "y": 3
+    },
+    "creationDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 16
+    },
+    "height": 0.25,
+    "birthday": {
+      "dateTime": {
+        "date": {
+          "year": 2020,
+          "month": 10,
+          "day": 9
+        },
+        "time": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        }
+      },
+      "offset": {
+        "totalSeconds": 10800
+      },
+      "zone": {
+        "id": "Europe/Moscow"
+      }
+    },
+    "weight": 1.0,
+    "country": "RUSSIA",
+    "location": {
+      "x": 123,
+      "y": 123.0,
+      "z": 123.0,
+      "name": "Moscow"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Me ",
+    "coordinates": {
+      "x": 33,
+      "y": 33
+    },
+    "creationDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 16
+    },
+    "height": 1.74,
+    "birthday": {
+      "dateTime": {
+        "date": {
+          "year": 2003,
+          "month": 7,
+          "day": 3
+        },
+        "time": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        }
+      },
+      "offset": {
+        "totalSeconds": 14400
+      },
+      "zone": {
+        "id": "Europe/Moscow"
+      }
+    },
+    "weight": 70.0,
+    "country": "RUSSIA",
+    "location": {
+      "x": 123,
+      "y": 123.0,
+      "z": 213.0,
+      "name": "St Petersburg"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Di",
+    "coordinates": {
+      "x": 22,
+      "y": 77
+    },
+    "creationDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 16
+    },
+    "height": 1.9,
+    "birthday": {
+      "dateTime": {
+        "date": {
+          "year": 1989,
+          "month": 4,
+          "day": 25
+        },
+        "time": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        }
+      },
+      "offset": {
+        "totalSeconds": 14400
+      },
+      "zone": {
+        "id": "Europe/Moscow"
+      }
+    },
+    "weight": 100.0,
+    "country": "RUSSIA",
+    "location": {
+      "x": 3,
+      "y": 4.0,
+      "z": 2.0,
+      "name": "Kaliningrad"
+    }
+  }
+]

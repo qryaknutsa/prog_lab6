@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "name": "Varvara",
+    "coordinates": {
+      "x": 0,
+      "y": 0
+    },
+    "creationDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 16
+    },
+    "height": 1.7,
+    "birthday": {
+      "dateTime": {
+        "date": {
+          "year": 1978,
+          "month": 1,
+          "day": 26
+        },
+        "time": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        }
+      },
+      "offset": {
+        "totalSeconds": 10800
+      },
+      "zone": {
+        "id": "Europe/Moscow"
+      }
+    },
+    "weight": 70.0,
+    "country": "RUSSIA",
+    "location": {
+      "x": 1,
+      "y": 2.0,
+      "z": 3.0,
+      "name": "moscow"
+    }
+  },
+  {
+    "id": 2,
+    "name": "1",
+    "coordinates": {
+      "x": 1,
+      "y": 1
+    },
+    "creationDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 16
+    },
+    "height": 1.0,
+    "birthday": {
+      "dateTime": {
+        "date": {
+          "year": 1,
+          "month": 1,
+          "day": 1
+        },
+        "time": {
+          "hour": 0,
+          "minute": 0,
+          "second": 0,
+          "nano": 0
+        }
+      },
+      "offset": {
+        "totalSeconds": 9017
+      },
+      "zone": {
+        "id": "Europe/Moscow"
+      }
+    },
+    "weight": 1.0,
+    "country": "RUSSIA",
+    "location": {
+      "x": 1,
+      "y": 1.0,
+      "z": 1.0,
+      "name": "1"
+    }
+  }
+]
